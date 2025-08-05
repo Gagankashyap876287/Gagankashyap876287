@@ -57,16 +57,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gagankashyap876287&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gagankashyap876287&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagankashyap876287&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</div>
-
 ## 🔥 Featured Projects
 
 <div align="center">
@@ -104,14 +94,3 @@
   <img src="https://komarev.com/ghpvc/?username=Gagankashyap876287&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
-**Thanks for visiting! Let's connect and build something amazing together!** 🚀
-
-</div>
