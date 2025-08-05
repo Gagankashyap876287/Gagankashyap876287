@@ -10,7 +10,7 @@
 - 🌱 I'm currently learning **Advanced ML Algorithms** and **Cloud Technologies**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Java, Python, React, Spring Boot, Machine Learning**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **[gagankashyapkashyap5@gmail.com]**
 - ⚡ Fun fact: I love turning data into insights!
 
 ## 🛠️ Technologies & Tools
