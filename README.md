@@ -6,10 +6,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Machine Learning** and **Full Stack Development** projects
-- 🌱 I'm currently learning **Advanced ML Algorithms** and **Cloud Technologies**
+- 🔭 I'm currently working on **Full Stack Development** projects
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Java, Python, React, Spring Boot, Machine Learning**
+- 💬 Ask me about **Java, Python, React, Spring Boot,Node.js, Machine Learning**
 - 📫 How to reach me: **[gagankashyapkashyap5@gmail.com]**
 - ⚡ Fun fact: I love turning data into insights!
 
@@ -73,7 +72,6 @@
 
 ## 💡 What I Do
 
-- 🤖 **Machine Learning**: Building intelligent systems that can learn from data
 - 🌐 **Full Stack Development**: Creating end-to-end web applications
 - 📊 **Data Analysis**: Transforming raw data into meaningful insights
 - ☁️ **Cloud Computing**: Leveraging cloud platforms for scalable solutions
