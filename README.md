@@ -76,17 +76,6 @@
 - 📊 **Data Analysis**: Transforming raw data into meaningful insights
 - ☁️ **Cloud Computing**: Leveraging cloud platforms for scalable solutions
 
-## 📫 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://llinkedin.com/in/gagankashyap18/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gagankashyap876287)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gagankashyapkashyap5@gmail.com)
-
-
-</div>
-
 ## 📊 Profile Views
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gagankashyap876287&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
